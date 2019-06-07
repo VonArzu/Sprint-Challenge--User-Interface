@@ -33,14 +33,15 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
+Semantic HTML introduces meaning to the web page with the use of tags to indicate specifics, like using the <p> tag to show that the text is a paragraphis. 
+HyperText MarkUp Language or HTML is also the blueprint displaying information and data on the screen and in browsers.
 
-2. Name two big differences between ```display: block;``` and ```display: inline;```.
+2. Name two big differences between display: block; and display: inline;. Two big differences between display: block; and display: inline; are that display: block; Can have margins and/or padding 
+and display: inline; will ignore top and bottom margin settings, but will apply left and right margins, and any padding as well as ignore the width and height properties.
 
-3. What are the 4 areas of the box model?
+3. What are the 4 areas of the box model? The four areas of the box model are Margin, Border, Padding, and Content.
 
-4. While using flexbox, what axis does the following property work on: ```align-items: center```?
-
-5. Explain why git is valuable to a team of developers.
+4. While using flexbox, what axis does the following property work on: align-items: center? align-tiems: center; works on the cross axis also known as the Y axis.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
