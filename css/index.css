@@ -145,6 +145,9 @@ header nav a {
     align-items: center;
     justify-content: center;
 }
+.middle-content .boxes .box #box1{
+    background-color: teal;
+}
 
 .bottom-content {
     display: flex;
