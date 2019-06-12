@@ -43,6 +43,8 @@ and display: inline; will ignore top and bottom margin settings, but will apply 
 
 4. While using flexbox, what axis does the following property work on: align-items: center? align-tiems: center; works on the cross axis also known as the Y axis.
 
+5. Explain why git is valuable to a team of developers.  Git is valuable to a team of developers because each of their individual code can be merged and reviewed. Also, pull request can be made under the same project.
+
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
 ## Project Set Up
