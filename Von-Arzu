@@ -1,0 +1,10 @@
+If you were to describe semantic HTML to the next cohort of students, what would you say?
+Semantic HTML introduces meaning to the web page with the use of tags to indicate specifics, like using the <p> tag to show that the text is a paragraphis. 
+HyperText MarkUp Language or HTML is also the blueprint displaying information and data on the screen and in browsers.
+
+Name two big differences between display: block; and display: inline;. Two big differences between display: block; and display: inline; are that display: block; Can have margins and/or padding 
+and display: inline; will ignore top and bottom margin settings, but will apply left and right margins, and any padding as well as ignore the width and height properties.
+
+What are the 4 areas of the box model? The four areas of the box model are Margin, Border, Padding, and Content.
+
+While using flexbox, what axis does the following property work on: align-items: center? align-tiems: center; works on the cross axis also known as the Y axis.
